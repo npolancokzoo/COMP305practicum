@@ -5,6 +5,6 @@
 - Line edited by Dr. Polanco and LenaCS305
 
 - Line edited by Dr. Polanco, and Son, Christopher, and Alex Nutt, and Mollie.
-- Line edited by Dr. Polanco, and SomeoneElse, and Anna Phyo, and Ealin
+- Line edited by Dr. Polanco, and SomeoneElse, and Anna Phyo, and Ealin, and Elijah.
 
 
