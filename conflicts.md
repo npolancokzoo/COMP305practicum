@@ -5,9 +5,9 @@
 
 - Line edited by Dr. Polanco and LenaCS305
 
-- Line edited by Dr. Polanco, and Son, Christopher, and Alex Nutt, and Mollie.
+- Line edited by Dr. Polanco, and Son, Christopher, and Alex Nutt, and Mollie, and Emiliano.
 - Line edited by Dr. Polanco, and SomeoneElse, and Anna Phyo
 
 =======
-- Line edited by Dr. Polanco, and Son, Christopher, and Alex Nutt, and Emiliano.
+- Line edited by Dr. Polanco, and Son, Christopher, and Alex Nutt.
 >>>>>>> feature_EmiAlvarado.txt
